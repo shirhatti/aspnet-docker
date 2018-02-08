@@ -1,0 +1,29 @@
+{
+    "repositoryName":"test/aspnet",
+    "tags" : [
+        {
+            "tagName": "3.5-windowsservercore-1709",
+            "directory": "3.5-windowsservercore-1709/runtime/"
+        },
+        {
+            "tagName": "3.5-windowsservercore-ltsc2016",
+            "directory": "3.5-windowsservercore-ltsc2016/runtime/"
+        },
+        {
+            "tagName": "4.6.2-windowsservercore-ltsc2016",
+            "directory": "4.6.2-windowsservercore-ltsc2016/runtime"
+        },
+        {
+            "tagName": "4.7-windowsservercore-ltsc2016",
+            "directory": "4.7-windowsservercore-ltsc2016/runtime"
+        },
+        {
+            "tagName": "4.7.1-windowsservercore-1709",
+            "directory": "4.7.1-windowsservercore-1709/runtime"
+        },
+        {
+            "tagName": "4.7.1-windowsservercore-ltsc2016",
+            "directory": "4.7.1-windowsservercore-ltsc2016/runtime"
+        }
+    ]
+}
