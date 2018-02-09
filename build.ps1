@@ -21,7 +21,6 @@ function Invoke-CleanupDocker()
     }
 }
 
-
 function Invoke-DockerBuild()
 {
     $manifest = Get-Content manifest.json | ConvertFrom-Json
@@ -31,5 +30,5 @@ function Invoke-DockerBuild()
     }
 }
 
-# Invoke-CleanupDocker
+Invoke-CleanupDocker
 Invoke-DockerBuild
